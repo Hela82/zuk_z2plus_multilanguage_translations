@@ -361,7 +361,7 @@
     <string name="sdcard_unmount">Smonta scheda SD</string>
     <string name="sdcard_format">Formatta scheda SD</string>
     <string name="preview_pager_content_description">Anteprima</string>
-    <string name="preview_page_indicator_content_description">Preview, page %1$d of %2$d</string>
+    <string name="preview_page_indicator_content_description">Anteprima, pagina %1$d di %2$d</string>
     <string name="font_size_summary">Ingrandisci o riduci il testo sullo schermo.</string>
     <string name="small_font">Piccolo</string>
     <string name="medium_font">Medio</string>
@@ -432,7 +432,7 @@ Sembrava che non esistessero cavalli o altri animali; gli uomini portavano le me
     <string name="bluetooth_map_request">Richiesta di accesso ai messaggi</string>
     <string name="bluetooth_map_acceptance_dialog_text">%1$s desidera accedere ai tuoi messaggi. Vuoi autorizzare %2$s?</string>
     <string name="bluetooth_sap_request">Richiesta di accesso alla SIM</string>
-    <string name="bluetooth_sap_acceptance_dialog_text">%1$s wants to access your SIM card. Granting access to the SIM card will disable data connectivity on your device for the duration of the connection. Give access to %2$s?</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s vorrebbe accedere alla tua SIM. Concedere l accesso alla SIM disabiliterà la connettività dati sul tuo dispositivo per la durata della connessione. Dare accesso a %2$s?</string>
     <string name="date_and_time">Data e ora</string>
     <string name="choose_timezone">Scegli il fuso orario</string>
     <string name="display_preview_label">Anteprima:</string>
@@ -444,7 +444,7 @@ Sembrava che non esistessero cavalli o altri animali; gli uomini portavano le me
     <string name="intent_sender_account_label">Account:</string>
     <string name="proxy_settings_title">Proxy</string>
     <string name="proxy_clear_text">Rimuovi</string>
-    <string name="proxy_port_label">Proxy port</string>
+    <string name="proxy_port_label">Porta Proxy</string>
     <string name="proxy_exclusionlist_label">Ignora proxy per</string>
     <string name="proxy_defaultView_text">Ripristina predefinite</string>
     <string name="proxy_action_text">Fine</string>
@@ -460,9 +460,9 @@ Sembrava che non esistessero cavalli o altri animali; gli uomini portavano le me
     <string name="proxy_url_title">URL PAC:</string>
     <string name="radio_info_signal_location_label">Posizione:</string>
     <string name="radio_info_neighboring_location_label">CID adiacente:</string>
-    <string name="radio_info_cell_info_refresh_rate">Cell Info Refresh Rate:</string>
-    <string name="radio_info_cellinfo_label">All Cell Measurement Info:</string>
-    <string name="radio_info_dcrtinfo_label">Data Connection Real-Time Info:</string>
+    <string name="radio_info_cell_info_refresh_rate">Frequenza di aggiornamento delle informazioni sulle celle:</string>
+    <string name="radio_info_cellinfo_label">Informazioni sulla misurazione di tutte le celle:</string>
+    <string name="radio_info_dcrtinfo_label">Informazioni in tempo reale sulla connessione dati:</string>
     <string name="radio_info_gprs_service_label">Servizio GPRS:</string>
     <string name="radio_info_roaming_label">Roaming:</string>
     <string name="radio_info_imei_label">IMEI:</string>
@@ -477,7 +477,7 @@ Sembrava che non esistessero cavalli o altri animali; gli uomini portavano le me
     <string name="radio_info_message_waiting_label">Messaggio in attesa:</string>
     <string name="radio_info_phone_number_label">Numero di telefono:</string>
     <string name="radio_info_band_mode_label">Seleziona banda radio</string>
-    <string name="radio_info_voice_network_type_label">Voice Network Type:</string>
+    <string name="radio_info_voice_network_type_label">Tipo di rete per la voce:</string>
     <string name="radio_info_set_perferred_label">Imposta tipo di rete preferito:</string>
     <string name="radio_info_ping_hostname_v4">Ping Hostname(www.google.com) IPv4:</string>
     <string name="radio_info_ping_hostname_v6">Ping Hostname(www.google.com) IPv6:</string>
@@ -518,7 +518,7 @@ Sembrava che non esistessero cavalli o altri animali; gli uomini portavano le me
     <string name="action_drag_label_move_down">Sposta sotto</string>
     <string name="action_drag_label_move_top">"Sposta all'inizio della lista"</string>
     <string name="action_drag_label_move_bottom">Sposta alla fine della lista</string>
-    <string name="action_drag_label_remove">Remove language</string>
+    <string name="action_drag_label_remove">Rimuovi lingua</string>
     <string name="activity_picker_label">Scegli attività</string>
     <string name="display_label">Schermo</string>
     <string name="phone_info_label">Info dispositivo</string>
@@ -576,11 +576,11 @@ Sembrava che non esistessero cavalli o altri animali; gli uomini portavano le me
     <string name="lock_after_timeout_summary">%1$s dopo la sospensione</string>
     <string name="lock_immediately_summary_with_exception">Immediatamente dopo la sospensione, eccetto quando bloccato %1$s</string>
     <string name="lock_after_timeout_summary_with_exception">%1$s dopo la sospensione eccetto quando bloccato da %2$s</string>
-    <string name="show_owner_info_on_lockscreen_label">Mostra info proprietario sulla Schermata di blocco</string>
+    <string name="show_owner_info_on_lockscreen_label">Mostra info proprietario sulla schermata di blocco</string>
     <string name="owner_info_settings_title">Info proprietario</string>
     <string name="security_enable_widgets_title">Abilita widget</string>
     <string name="security_enable_widgets_disabled_summary">Disattivati dall amministratore</string>
-    <string name="owner_info_settings_summary">None</string>
+    <string name="owner_info_settings_summary">Nessuno</string>
     <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_edit_text_hint">Digita testo da visualizzare sulla Schermata di blocco</string>
     <string name="user_info_settings_title">Dati utente</string>
@@ -593,7 +593,7 @@ Sembrava che non esistessero cavalli o altri animali; gli uomini portavano le me
     <string name="security_settings_summary">Imposta La mia posizione, blocco schermo, blocco SIM, blocco cred.</string>
     <string name="cdma_security_settings_summary">Imposta La mia posizione, blocco schermo, blocco archivio credenziali</string>
     <string name="security_passwords_title">Password</string>
-    <string name="disabled_by_administrator_summary">Disabled by administrator</string>
+    <string name="disabled_by_administrator_summary">Disabilitato dall amministratore</string>
     <string name="security_settings_fingerprint_preference_title">Impronta digitale</string>
     <string name="fingerprint_manage_category_title">Gestisci impronta digitale</string>
     <string name="fingerprint_usage_category_title">Utilizza impronta digitale per</string>
@@ -633,13 +633,13 @@ Nota. La tua impronta digitale potrebbe essere meno sicura di una sequenza o un 
     <string name="security_settings_fingerprint_enroll_touch_dialog_message">Utilizzare il sensore di impronte digitali.</string>
     <string name="security_settings_fingerprint_enroll_error_dialog_title">Rilevamento non completato.</string>
     <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">Tempo scaduto. Riprova.</string>
-    <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">"Rilevamento dell'impronta non riuscito. Prova con un altro dito."</string>
-    <string name="fingerprint_enroll_button_add">"Aggiungi un'altra impronta"</string>
+    <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Rilevamento dell'impronta non riuscito. Prova con un altro dito.</string>
+    <string name="fingerprint_enroll_button_add">Aggiungi un'altra impronta</string>
     <string name="fingerprint_enroll_button_next">Avanti</string>
-    <string name="security_settings_fingerprint_enroll_disclaimer">In addition to unlocking your phone, you can also use your fingerprint to authorize purchases and app access.</string>
-    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"Opzione Blocco schermo disattivata. Contatta l' amministratore della tua organizzazione per avere ulteriori informazioni.  annotation id=admin_details>Altri dettagli /annotation 
+    <string name="security_settings_fingerprint_enroll_disclaimer">Oltre che per sbloccare il telefono, puoi utilizzare la tua impronta digitale per autorizzare acquisti e accessi alle app. annotation id=url>Ulteriori informazioni /annotation></string>
+    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Opzione Blocco schermo disattivata. Contatta l' amministratore della tua organizzazione per avere ulteriori informazioni.  annotation id=admin_details>Altri dettagli /annotation 
 
-Puoi utilizzare ugualmente 'impronta igitale per autorizzare acquisti e accessi alle app.  annotation id=url>Ulteriori informazioni /annotation"</string>
+Puoi utilizzare ugualmente l'impronta digitale per autorizzare acquisti e accessi alle app.  annotation id=url>Ulteriori informazioni /annotation"</string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again">Solleva il dito, quindi tocca di nuovo il sensore</string>
     <string name="setup_fingerprint_enroll_finish_secondary_message">Per modificare le tue impostazioni, vai in Impostazioni > Sicurezza > Impronte digitali.</string>
     <string name="fingerprint_add_max">Puoi aggiungere fino a %d impronte digitali</string>
@@ -926,10 +926,10 @@ Anche le impronte digitali salvate saranno rimosse dal profilo e non le potrai u
     <string name="wifi_wps_connected">Connesso alla rete Wi‑Fi %s</string>
     <string name="wifi_wps_in_progress">La configurazione WPS è già in corso e il completamento può richiedere fino a due minuti</string>
     <string name="wifi_wps_failed_generic">Configurazione WPS non riuscita. Riprova tra qualche minuto.</string>
-    <string name="wifi_wps_failed_wep">"l'impostazione di sicurezza del router wireless (WEP) non è supportata"</string>
-    <string name="wifi_wps_failed_tkip">"l'impostazione di sicurezza del router wireless (TKIP) non è supportata"</string>
+    <string name="wifi_wps_failed_wep">"L'impostazione di sicurezza del router wireless (WEP) non è supportata"</string>
+    <string name="wifi_wps_failed_tkip">"L'impostazione di sicurezza del router wireless (TKIP) non è supportata"</string>
     <string name="wifi_wps_failed_auth">Errore di autenticazione. Riprova.</string>
-    <string name="wifi_wps_failed_overlap">È stata rilevata unltra sessione WPS. Riprova tra qualche minuto.</string>
+    <string name="wifi_wps_failed_overlap">È stata rilevata un'altra sessione WPS. Riprova tra qualche minuto.</string>
     <string name="wifi_ssid">Nome rete</string>
     <string name="wifi_ssid_hint">"Inserisci l'SSID"</string>
     <string name="wifi_security">Sicurezza</string>
