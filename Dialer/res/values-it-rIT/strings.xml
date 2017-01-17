@@ -8,7 +8,7 @@
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_searchview_description_search">Cerca</string>
-    <string name="abc_search_hint">搜索…</string>
+    <string name="abc_search_hint">Cerca…</string>
     <string name="abc_searchview_description_query">Query di ricerca</string>
     <string name="abc_searchview_description_clear">Cancella query</string>
     <string name="abc_searchview_description_submit">Invia query</string>
@@ -270,7 +270,7 @@ Motivo: \"%s\""</string>
     <string name="dialog_import">Importa contatti</string>
     <string name="share_error">Questo contatto non può essere condiviso.</string>
     <string name="no_contact_to_share">Nessun contatto da condividere.</string>
-    <string name="share_failed">联系人太多，分享失败。</string>
+    <string name="share_failed">Operazione fallita</string>
 	<string name="menu_search">Cerca</string>
     <string name="menu_contacts_filter">Contatti da visualizzare</string>
     <string name="activity_title_contacts_filter">Contatti da visualizzare</string>
@@ -322,9 +322,9 @@ Motivo: \"%s\""</string>
     <string name="about_privacy_policy">Norme sulla privacy</string>
     <string name="about_terms_of_service">Termini di servizio</string>
     <string name="activity_title_licenses">Licenze open source</string>
-    <string name="url_open_error_toast">无法打开网址。</string>
-    <string name="account_filter_view_checked">已选中 %s</string>
-    <string name="account_filter_view_not_checked">未选中 %s</string>
+    <string name="url_open_error_toast">Impossibile aprire l\'URL.</string>
+    <string name="account_filter_view_checked">%s contrassegnato</string>
+    <string name="account_filter_view_not_checked">%s non contrassegnato</string>
     <string name="description_search_video_call">Effettua videochiamata</string>
     <string name="player_started">Player avviato</string>
     <string name="player_stopped">Player interrotto</string>
