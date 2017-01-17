@@ -502,8 +502,8 @@ Motivo: \"%s\""</string>
     <string name="too_many_recipients">L\'audioconferenza 4G è limitata a 6 partecipanti</string>
     <string name="applicationLabel">Dialer</string>
     <string name="launcherActivityLabel">Dialer</string>
-    <string name="launcherDialpadActivityLabel">电话拨号键盘</string>
-    <string name="dialerIconLabel">拨号</string>
+    <string name="launcherDialpadActivityLabel">Telefono</string>
+    <string name="dialerIconLabel">Telefono</string>
     <string name="callHistoryIconLabel">通话记录</string>
     <string name="action_report_number">报告错误的号码</string>
     <string name="action_copy_number_text">复制号码</string>
