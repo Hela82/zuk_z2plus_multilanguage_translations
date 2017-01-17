@@ -34,7 +34,7 @@
         <item>Verifica sempre</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>一Non utilizzare mai la verifica HDCP</item>
+        <item>Non utilizzare mai la verifica HDCP</item>
         <item>Usa la verifica HDCP solo per contenuti DRM</item>
         <item>Usa sempre la verifica HDCP</item>
     </string-array>
@@ -90,16 +90,16 @@
     <string-array name="overlay_display_devices_entries">
         <item>Nessuno</item>
         <item>480p</item>
-        <item>480p（protetto）</item>
+        <item>480p （protetto）</item>
         <item>720p</item>
-        <item>720p（protetto）</item>
+        <item>720p （protetto）</item>
         <item>1080p</item>
-        <item>1080p（protetto）</item>
+        <item>1080p （protetto）</item>
         <item>4K</item>
-        <item>4K（protetto）</item>
-        <item>4K（ottimizzato）</item>
-        <item>4K（ottimizzato, protetto）</item>
-        <item>720p，1080p（doppio schermo）</item>
+        <item>4K （protetto）</item>
+        <item>4K （ottimizzato）</item>
+        <item>4K （ottimizzato, protetto）</item>
+        <item>720p，1080p （doppio schermo）</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nessuna</item>
@@ -150,7 +150,7 @@
         <item>Istantaneo</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>Vivaci default）</item>
+        <item>Vivaci (predefinito）</item>
         <item>Naturali</item>
         <item>Disattivato</item>
     </string-array>
@@ -165,13 +165,13 @@
         <item>100%</item>
     </string-array>
     <string-array name="clock_options">
-        <item>Mostra ore, minuti, e secondi</item>
+        <item>Mostra ore, minuti e secondi</item>
         <item>Mostra ore e minuti (default)</item>
         <item>Non mostrare questa icona</item>
     </string-array>
     <string-array name="battery_options">
         <item>Mostra sempre la percentuale</item>
-        <item>Mostra la percentuale quando in carica (default)</item>
+        <item>Mostra la percentuale quando in carica (predefinito)</item>
         <item>Non mostrare questa icona</item>
     </string-array>
     <array name="recents_tv_blacklist_array" />
