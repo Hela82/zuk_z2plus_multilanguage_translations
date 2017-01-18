@@ -1023,21 +1023,21 @@ Per ulteriori informazioni, contatta l\'amministratore."</string>
     <string name="pip_hold_home">Premere <b>HOME</b> per controllare PIP</string>
     <string name="pip_onboarding_title">Picture-in-picture</string>
     <string name="pip_onboarding_description">Il video rimane visualizzato fino alla riproduzione di un altro video. Tieni premuto "<b>"HOME"</b>" per controllare la funzione.</string>
-    <string name="pip_onboarding_button">Ok</string>
-    <string name="recents_tv_dismiss">Dismiss</string>
+    <string name="pip_onboarding_button">OK</string>
+    <string name="recents_tv_dismiss">Ignora</string>
     <string  name="app_name">Keyguard</string>
-    <string name="keyguard_password_enter_pin_code">Type PIN code</string>
-    <string name="keyguard_password_enter_puk_code">Type SIM PUK and new PIN code</string>
-    <string name="keyguard_password_enter_puk_prompt">SIM PUK code</string>
-    <string name="keyguard_password_enter_pin_prompt">New SIM PIN code</string>
+    <string name="keyguard_password_enter_pin_code">Inserisci codice PIN</string>
+    <string name="keyguard_password_enter_puk_code">Inserisci il codice PUK e il nuovo codice PIN</string>
+    <string name="keyguard_password_enter_puk_prompt">Codice PUK</string>
+    <string name="keyguard_password_enter_pin_prompt">Nuovo codice PIN</string>
     <string  name="keyguard_password_entry_touch_hint"><font size="17"> "Tocca per inserire la password"</font></string>
-    <string name="keyguard_password_enter_password_code">Type password to unlock</string>
-    <string name="keyguard_password_enter_pin_password_code">Type PIN to unlock</string>
-    <string name="keyguard_password_wrong_pin_code">Incorrect PIN code.</string>
+    <string name="keyguard_password_enter_password_code">Digita la password per sbloccare</string>
+    <string name="keyguard_password_enter_pin_password_code">Digita il PIN per sbloccare</string>
+    <string name="keyguard_password_wrong_pin_code">Codice PIN non valido.</string>
     <string  name="keyguard_charged">Carico</string>
     <string  name="keyguard_plugged_in">In carica</string>
-    <string name="keyguard_plugged_in_charging_fast">Charging rapidly</string>
-    <string name="keyguard_plugged_in_charging_slowly">Charging slowly</string>
+    <string name="keyguard_plugged_in_charging_fast">Ricarica veloce</string>
+    <string name="keyguard_plugged_in_charging_slowly">Ricarica lenta</string>
     <string  name="keyguard_low_battery">Collega il caricabatterie.</string>
     <string  name="keyguard_instructions_when_pattern_disabled">Premi Menu per sbloccare.</string>
     <string  name="keyguard_network_locked_message">Rete bloccata</string>
@@ -1048,7 +1048,7 @@ Per ulteriori informazioni, contatta l\'amministratore."</string>
     <string  name="keyguard_permanent_disabled_sim_message_short">Scheda SIM inutilizzabile.</string>
     <string  name="keyguard_permanent_disabled_sim_instructions">"La scheda SIM è stata disattivata definitivamente.
 		
- Contatta il fornitore del tuo servizio wireless per ricevere un\'altra scheda SIM."</string>
+ Contatta il tuo operatore di telefonia mobile per ricevere un\'altra scheda SIM."</string>
     <string  name="keyguard_sim_locked_message">La SIM è bloccata.</string>
     <string  name="keyguard_sim_puk_locked_message">La SIM è bloccata tramite PUK.</string>
     <string  name="keyguard_sim_unlock_progress_dialog_message">Sblocco scheda SIM...</string>
@@ -1083,15 +1083,15 @@ Per ulteriori informazioni, contatta l\'amministratore."</string>
     <string  name="kg_invalid_puk">Inserisci di nuovo il codice PUK corretto. Ripetuti tentativi comportano la disattivazione definitiva della scheda SIM.</string>
     <string  name="kg_invalid_confirm_pin_hint">I codici PIN non corrispondono</string>
     <string  name="kg_login_too_many_attempts">Troppi tentativi di inserimento della sequenza</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message">"You have incorrectly typed your PIN %1$d times. 
+    <string name="kg_too_many_failed_pin_attempts_dialog_message">"Hai digitato il tuo PIN %1$d volte in modo errato. 
 
-Try again in %2$d seconds."</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message">"You have incorrectly typed your password %1$d times. 
+Riprova tra %2$d secondi."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message">"Hai digitato la tua password %1$d volte in modo errato. 
 
-Try again in %2$d seconds."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"You have incorrectly drawn your unlock pattern %1$d times. 
+Riprova tra %2$d secondi."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Hai disegnato la sequenza di sblocco %1$d volte in modo errato. 
 
-Try again in %2$d seconds."</string>
+Riprova tra %2$d secondi."</string>
     <string name="kg_failed_attempts_almost_at_wipe">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, this phone will be reset, which will delete all its data.</string>
 	<string  name="kg_failed_attempts_now_wiping">Hai tentato di sbloccare il telefono senza riuscirci per %d volte. Il telefono verrà ripristinato e verranno quindi eliminati tutti i relativi dati.</string>
     <string name="kg_failed_attempts_almost_at_erase_user">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
@@ -1106,24 +1106,24 @@ Try again in %2$d seconds."</string>
     <string  name="kg_password_puk_failed">Operazione con PUK della SIM non riuscita.</string>
     <string  name="kg_pin_accepted">Codice accettato.</string>
     <string  name="keyguard_carrier_default">Nessun servizio.</string>
-    <string  name="kg_remaining_attempts">Remaining attempts: %d</string>
+    <string  name="kg_remaining_attempts">Tentativi rimanenti: %d</string>
     <string name="kg_failed_pin_attempts_now_wiping">You entered the wrong PIN %d times, do you want to reset your phone to factory settings?</string>
     <string name="kg_failed_password_attempts_now_wiping">You entered the wrong Password %d times, do you want to reset your phone to factory settings?</string>
     <string name="kg_failed_pattern_attempts_now_wiping">You entered the wrong Pattern %d times, do you want to reset your phone to factory settings?</string>
     <string name="kg_failed_attempts_now_wiping_confirm">"This will erase all data from your device's internal storage and your device will be back to factory settings."</string>
-    <string name="accessibility_ime_switch_button">Switch input method</string>
-    <string name="airplane_mode">Airplane mode</string>
+     <string name="accessibility_ime_switch_button">Cambia metodo di immissione</string>
+    <string name="airplane_mode">Modalità aereo</string>
     <string  name="kg_prompt_reason_restart_pattern">Sequenza obbligatoria dopo il riavvio del dispositivo.</string>
     <string  name="kg_prompt_reason_restart_pin">PIN obbligatorio dopo il riavvio del dispositivo.</string>
     <string  name="kg_prompt_reason_restart_password">Password obbligatoria dopo il riavvio del dispositivo.</string>
-    <string name="kg_prompt_reason_timeout_pattern">Pattern required for additional security</string>
-    <string name="kg_prompt_reason_timeout_pin">PIN required for additional security</string>
-    <string name="kg_prompt_reason_timeout_password">Password required for additional security</string>
-    <string name="kg_prompt_reason_switch_profiles_pattern">Pattern required when you switch profiles</string>
-    <string name="kg_prompt_reason_switch_profiles_pin">PIN required when you switch profiles</string>
-    <string name="kg_prompt_reason_switch_profiles_password">Password required when you switch profiles</string>
-    <string name="kg_prompt_reason_device_admin">Device administrator locked device</string>
-    <string name="kg_prompt_reason_user_request">Device was locked manually</string>
+    <string name="kg_prompt_reason_timeout_pattern">Sequenza obbligatoria per maggiore sicurezza</string>
+    <string name="kg_prompt_reason_timeout_pin">PIN obbligatorio per maggiore sicurezza</string>
+    <string name="kg_prompt_reason_timeout_password">Password obbligatoria per maggiore sicurezza</string>
+    <string name="kg_prompt_reason_switch_profiles_pattern">Sequenza obbligatoria dopo aver cambiato profilo</string>
+    <string name="kg_prompt_reason_switch_profiles_pin">PIN obbligatorio dopo aver cambiato profilo</string>
+    <string name="kg_prompt_reason_switch_profiles_password">Password obbligatoria dopo aver cambiato profilo</string>
+    <string name="kg_prompt_reason_device_admin">L\'amministratore del dispositivo lo ha bloccato</string>
+    <string name="kg_prompt_reason_user_request">Il dispositivo è stato bloccato manualmente</string>
     <string  name="fingerprint_not_recognized">Non riconosciuto</string>
     <string  name="status_bar_date_formatter">"%2$s%1$s"</string>
 </resources>
