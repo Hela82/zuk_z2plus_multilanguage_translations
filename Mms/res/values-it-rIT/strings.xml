@@ -212,7 +212,7 @@
     <string name="add_nuber_to_contects">Aggiungi numero dai contatti</string>
     <string name="contects">Contatti</string>
     <string name="start_call">Chiama</string>
-    <string name="no_data_can_not_send">No data, please open it.</string>
+    <string name="no_data_can_not_send">Nessuna connessione, accendere la connessione dati.</string>
     <string name="rcs_offline_not_support_attachment">RCS offline e la policy di invio è SOLO RCS，gli allegati non sono supportati</string>
     <string name="rcs_offline_not_support_sending">RCS non in linea e la policy di invio è SOLO RCS，impossibile inviare</string>
     <string name="group_chat_unsupport_sending_mms">La chat di gruppo non supporta l invio di MMS</string>
