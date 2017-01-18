@@ -121,7 +121,7 @@
     <string name="firewall_add_blacklist_wring">Se aggiungi questo numero alla Blacklist, non riceverai messaggi e chiamate da questo numero</string>
     <string name="toast_install_map">Nessuna mappa installata</string>
     <string name="rcs_downloading">Downloading</string>
-    <string name="please_install_rcs_map">Please install RCS_MAP</string>
+    <string name="please_install_rcs_map">Installare RCS_MAP</string>
     <string name="unable_to_locate">Impossibile rilevare la posizione</string>
     <string name="rcs_text_message">Messaggio RCS</string>
     <string name="message_content_type">Tipo di messaggio：</string>
