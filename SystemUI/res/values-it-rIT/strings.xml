@@ -1092,25 +1092,26 @@ Riprova tra %2$d secondi."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Hai disegnato la sequenza di sblocco %1$d volte in modo errato. 
 
 Riprova tra %2$d secondi."</string>
-    <string name="kg_failed_attempts_almost_at_wipe">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, this phone will be reset, which will delete all its data.</string>
+    <string name="kg_failed_attempts_almost_at_wipe">Hai tentato di sbloccare il telefono senza riuscirci per %1$d volte. Dopo altri %2$d tentativi falliti, il telefono verrà ripristinato e tutti i dati utente andranno persi.</string>
 	<string  name="kg_failed_attempts_now_wiping">Hai tentato di sbloccare il telefono senza riuscirci per %d volte. Il telefono verrà ripristinato e verranno quindi eliminati tutti i relativi dati.</string>
-    <string name="kg_failed_attempts_almost_at_erase_user">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user">Hai tentato di sbloccare il telefono senza riuscirci per %1$d volte. Dopo altri %2$dtentativi falliti, questo utente verrà rimosso e verranno quindi eliminati tutti i dati associati.</string>
 	<string  name="kg_failed_attempts_now_erasing_user">Hai tentato di sbloccare il telefono senza riuscirci per %d volte. Questo utente verrà rimosso e verranno quindi eliminati tutti i dati associati.</string>
-    <string name="kg_failed_attempts_almost_at_erase_profile">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile">Hai tentato di sbloccare il telefono senza riuscirci per %1$d Volte. Dopo altri %2$d tentativi falliti, il profilo di lavoro verrà rimosso e verranno quindi eliminati tutti i dati associati.</string>
     <string  name="kg_failed_attempts_now_erasing_profile">Hai tentato di sbloccare il telefono senza riuscirci per %d volte. Il profilo di lavoro verrà rimosso e verranno quindi eliminati tutti i dati associati.</string>
-    <string name="kg_failed_attempts_almost_at_login">"You have incorrectly drawn your unlock pattern %1$d times. After %2$d more unsuccessful attempts, you will be asked to unlock your phone using an email account.
+    <string name="kg_failed_attempts_almost_at_login">"Hai tentato di inserire la sequenza di sblocco del telefono senza riuscirci per %1$d volte. Dopo altri %2$d tentativi falliti, ti verrà chiesto di sbloccare il telefono con un account email.
 
- Try again in %3$d seconds."</string>    <string  name="kg_password_wrong_pin_code_pukked">"Codice PIN della SIM errato. Devi contattare l\'operatore per sbloccare il dispositivo."</string>
+ Riprova %3$d secondi."</string>    
+	<string  name="kg_password_wrong_pin_code_pukked">"Codice PIN della SIM errato. Devi contattare l\'operatore per sbloccare il dispositivo."</string>
 	<string  name="kg_password_wrong_puk_code_dead">SIM inutilizzabile. Contatta il tuo operatore.</string>
     <string  name="kg_password_pin_failed">Operazione con PIN della SIM non riuscita.</string>
     <string  name="kg_password_puk_failed">Operazione con PUK della SIM non riuscita.</string>
     <string  name="kg_pin_accepted">Codice accettato.</string>
     <string  name="keyguard_carrier_default">Nessun servizio.</string>
     <string  name="kg_remaining_attempts">Tentativi rimanenti: %d</string>
-    <string name="kg_failed_pin_attempts_now_wiping">You entered the wrong PIN %d times, do you want to reset your phone to factory settings?</string>
-    <string name="kg_failed_password_attempts_now_wiping">You entered the wrong Password %d times, do you want to reset your phone to factory settings?</string>
-    <string name="kg_failed_pattern_attempts_now_wiping">You entered the wrong Pattern %d times, do you want to reset your phone to factory settings?</string>
-    <string name="kg_failed_attempts_now_wiping_confirm">"This will erase all data from your device's internal storage and your device will be back to factory settings."</string>
+    <string name="kg_failed_pin_attempts_now_wiping">Hai inserito il PIN errato per %d volte, vuoi resettare il telefono alle impostazioni di fabbrica?</string>
+    <string name="kg_failed_password_attempts_now_wiping">Hai inserito la Password errata per %d volte, vuoi resettare il telefono alle impostazioni di fabbrica?</string>
+    <string name="kg_failed_pattern_attempts_now_wiping">Hai inserito la sequenza di sblocco errata per %d volte, vuoi resettare il telefono alle impostazioni di fabbrica?</string>
+    <string name="kg_failed_attempts_now_wiping_confirm">"Questa operazione cancellerà tutti i dati dalla memoria interna e il telefono verrà ripristinato alle impostazioni di fabbrica."</string>
      <string name="accessibility_ime_switch_button">Cambia metodo di immissione</string>
     <string name="airplane_mode">Modalità aereo</string>
     <string  name="kg_prompt_reason_restart_pattern">Sequenza obbligatoria dopo il riavvio del dispositivo.</string>
